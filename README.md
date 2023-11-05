@@ -1,2 +1,5 @@
-# mad-libs
-This repository contains the starter files for the Mad Libs project
+# Mad Libs
+
+## Objective
+Practice listening for and responding to events using JavaScript. 
+
